@@ -30,6 +30,9 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
         with:
           cache-read-only: false
+          
+      - name: Execute Gradle chmod
+        run: chmod +x gradlew
 
       - name: Execute Gradle build
         run: ./gradlew build
