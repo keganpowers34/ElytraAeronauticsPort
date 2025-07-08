@@ -1,6 +1,6 @@
 ![ElytraAeronautics](https://media.discordapp.net/attachments/754495868861677628/927260411785539604/ean2.png?width=1289&height=255)
 
-# TLDR; What does this mod do?
+# TLDR; What does this mod do??
 
 This mod has three main features:
 1. When flying with elytra, the player will fly faster the higher they fly (similar as in real life, where air density is lower at high altitudes, decreasing air drag).
